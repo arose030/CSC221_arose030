@@ -1,7 +1,7 @@
-# CSC221_arose030
+# CSC221 Fall 2023
 
-## Heading 1
+## Alyssa Rose
 
-### Heading 2
+### arose030@plattsburgh.edu
 
-###### Heading 3
+
